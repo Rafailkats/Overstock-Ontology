@@ -1,3 +1,9 @@
 # Overstock-Ontology
+
+===== Ontology Dataset=======
+
 In the context of a thesis, an ontology of semantic knowledge was created for household objects, called Overstock. The first step in the implementation is the creation of a complete and sufficient dataset. The data for the items was retrieved from the online store Overstock.com, using the method of scrapping. We managed to collect 20,012 household items and every item has 11 characteristic-columns: id, title, price, rating, reviews, brand, colors, image, made in country, if assemply needed and material. 
-![image2](https://user-images.githubusercontent.com/128267473/228054340-28cdccd3-6d45-42bb-afed-53bba48ffa0e.png)
+Overstcok-Scrapping.py: contains the python source file for the scrapping method
+Overstock-Dataset.csv: the dataset of the household items
+
+===== Creation of the Overstock Ontology =======
