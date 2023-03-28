@@ -10,6 +10,7 @@ Overstcok-Scrapping.py: contains the python source file for the scrapping method
 Overstock-Dataset.csv: the dataset of the household items
 
 ![δδδδ](https://user-images.githubusercontent.com/128267473/228316873-11ff2618-18da-4fe5-a309-2bb94df9fef6.png)
+
 Pict-2: Example of 3 items in Overstock-Dataset.csv
 
 === Creation of the Overstock Ontology =======
