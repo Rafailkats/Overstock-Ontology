@@ -12,8 +12,8 @@ Second step in the implementation is to create and populate the ontology using t
 
 ![image2](https://user-images.githubusercontent.com/128267473/228058762-ac581908-425d-4c3b-ad05-7b5e4db8c90d.png)
 
-Pict1: Visualization of Overstock ontology using Protégé software
+Pict-1: Visualization of Overstock ontology using Protégé software
 
 ![image1](https://user-images.githubusercontent.com/128267473/228059638-5a145707-851c-48c9-aa24-cd186258819b.png)
 
-Pict1: Visualization of Overstock ontology's main classes with properties
+Pict-2: Visualization of Overstock ontology's main classes with properties
