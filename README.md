@@ -46,8 +46,9 @@ Pict-5: Main menu of the graphical interface.
 
 Pict-6: Navigate the class hierarchy of Home Items and perform search with criteria.
 
+![ccc](https://user-images.githubusercontent.com/128267473/228343776-dd2ab661-0811-4d35-8dca-3ad8784ce482.png)
 
-Pict-7: Display the ηομε ιτεμσ that meet the search criteria.
+Pict-7: Display the home items that meet the search criteria.
 
 ![ccc](https://user-images.githubusercontent.com/128267473/228340811-67294211-d206-4247-81d7-2eaa73a57779.png)
 
