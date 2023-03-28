@@ -34,7 +34,7 @@ For the third and final step we create a Graphical User Interface for data retri
 - Delete/Add intances of Customer/Employee/Transiction classes.
 - Specific option to perform any query, using SPARQL, to the ontology and display the results.
 
-Overstock-Sparql is the source python file that implements the graphical interface
+Overstock-Sparql.py is the source python file that implements the graphical interface
 
 Below are indicative images from the graphical interface.
 
@@ -47,6 +47,7 @@ Pict-5: Main menu of the graphical interface.
 Pict-6: Navigate the class hierarchy of Home Items and perform search with criteria
 Pict-7: Display home items
 Pict-8: Display instances of Employee/Customer/Transaction classes
+
 ![ccc](https://user-images.githubusercontent.com/128267473/228338050-a807de42-2438-48ad-86b7-124e05254b2e.png)
 
 Pict-9: Perform any query, using SPARQL, to the ontology and display the results.
