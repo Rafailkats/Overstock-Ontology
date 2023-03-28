@@ -39,6 +39,7 @@ Below are indicative images from the graphical interface.
 Pict-5: Main menu of the graphical interface.
 
 ![ccc](https://user-images.githubusercontent.com/128267473/228337586-b65b8c2a-dea7-4cd6-bcab-3fbad3f9d18e.png)
+
 Pict-6: Navigate the class hierarchy of Home Items and perform search with criteria
 Pict-7: Display home items
 Pict-8: Display instances of Employee/Customer/Transaction classes
