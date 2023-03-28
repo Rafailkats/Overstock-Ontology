@@ -25,6 +25,7 @@ Pict-3: Visualization of Overstock ontology using Protégé software
 Pict-4: Visualization of Overstock ontology's main classes with properties
 
 ====== Retrieval and modification mechanism ============
+
 For the third and final step we create a Graphical User Interface for data retrieval and modification from the Overstock ontology. In summary the user can perform the following:
 - Navigate the class hierarchy of Home Items.
 - search home items by criteria (price, color, made in Country, rating, if assembly needed) and display them.
@@ -32,6 +33,9 @@ For the third and final step we create a Graphical User Interface for data retri
 - Display Customers/Employee/Transiction with their data.
 - Delete/Add intances of Customer/Employee/Transiction classes.
 - Specific option to perform any query, using SPARQL, to the ontology and display the results.
+
+Overstock-Sparql is the source python file that implements the graphical interface
+
 Below are indicative images from the graphical interface.
 
 ![ccc](https://user-images.githubusercontent.com/128267473/228337153-70dd8878-536e-4cbd-95d5-b52a81158b81.png)
