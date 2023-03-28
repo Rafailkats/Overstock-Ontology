@@ -7,7 +7,7 @@ Pict-1: E-shop of home items Overstock.com
 
 Overstcok-Scrapping.py: contains the python source file for the scrapping method
 
-Overstock-Dataset.csv: the dataset of the household items
+Overstock-Dataset.csv: the dataset of the household items (20.012 items)
 
 ![δδδδ](https://user-images.githubusercontent.com/128267473/228316873-11ff2618-18da-4fe5-a309-2bb94df9fef6.png)
 
